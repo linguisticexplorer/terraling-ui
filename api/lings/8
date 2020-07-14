@@ -1,0 +1,230 @@
+{
+  "group": "Conjunction And Disjunction",
+  "ling_name": "Language",
+  "lings": [{
+      "name": "Akan (Twi)",
+      "completeness": "8%",
+      "description": ""
+    },
+    {
+      "name": "Basaa",
+      "completeness": "46%",
+      "description": ""
+    },
+    {
+      "name": "Baule",
+      "completeness": "23%",
+      "description": ""
+    },
+    {
+      "name": "Cantonese (Guangzhou)",
+      "completeness": "41%",
+      "description": ""
+    },
+    {
+      "name": "Chickasaw",
+      "completeness": "41%",
+      "description": ""
+    },
+    {
+      "name": "Dagara (Burkina)",
+      "completeness": "45%",
+      "description": ""
+    },
+    {
+      "name": "Dutch",
+      "completeness": "90%",
+      "description": ""
+    },
+    {
+      "name": "English",
+      "completeness": "2%",
+      "description": ""
+    },
+    {
+      "name": "Estonian",
+      "completeness": "36%",
+      "description": ""
+    },
+    {
+      "name": "German",
+      "completeness": "90%",
+      "description": ""
+    },
+    {
+      "name": "Greek",
+      "completeness": "41%",
+      "description": ""
+    },
+    {
+      "name": "Guro",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Hildese",
+      "completeness": "89%",
+      "description": "This is not a real language, but please don't delete it. It is necessary to create the 'no' and 'NA' options for certain properties."
+    },
+    {
+      "name": "Hungarian",
+      "completeness": "5%",
+      "description": ""
+    },
+    {
+      "name": "Igbo",
+      "completeness": "34%",
+      "description": ""
+    },
+    {
+      "name": "Iraqi Arabic",
+      "completeness": "44%",
+      "description": ""
+    },
+    {
+      "name": "Italian",
+      "completeness": "12%",
+      "description": ""
+    },
+    {
+      "name": "Italian CG",
+      "completeness": "62%",
+      "description": ""
+    },
+    {
+      "name": "Ivorian French",
+      "completeness": "9%",
+      "description": ""
+    },
+    {
+      "name": "Japanese",
+      "completeness": "6%",
+      "description": ""
+    },
+    {
+      "name": "Japanese KY",
+      "completeness": "26%",
+      "description": ""
+    },
+    {
+      "name": "Kannada",
+      "completeness": "2%",
+      "description": ""
+    },
+    {
+      "name": "Kilega",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Korean",
+      "completeness": "41%",
+      "description": ""
+    },
+    {
+      "name": "Koro",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Kusaal",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Latvian",
+      "completeness": "18%",
+      "description": ""
+    },
+    {
+      "name": "Macedonian",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Malayalam",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Nina's test language",
+      "completeness": "76%",
+      "description": "This is not a real language, but please don't delete it. It is necessary to create the 'no' and 'NA' options for certain properties."
+    },
+    {
+      "name": "Nones",
+      "completeness": "41%",
+      "description": ""
+    },
+    {
+      "name": "Norwegian",
+      "completeness": "89%",
+      "description": ""
+    },
+    {
+      "name": "Persian (Iran)",
+      "completeness": "62%",
+      "description": "consultant: Shahin Mashayekhi"
+    },
+    {
+      "name": "Polish",
+      "completeness": "31%",
+      "description": ""
+    },
+    {
+      "name": "Polish MW",
+      "completeness": "24%",
+      "description": ""
+    },
+    {
+      "name": "Russian",
+      "completeness": "4%",
+      "description": ""
+    },
+    {
+      "name": "Serbo-Croatian",
+      "completeness": "81%",
+      "description": ""
+    },
+    {
+      "name": "Sicilian",
+      "completeness": "62%",
+      "description": ""
+    },
+    {
+      "name": "Tagalog",
+      "completeness": "8%",
+      "description": ""
+    },
+    {
+      "name": "Telugu",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Turkish",
+      "completeness": "41%",
+      "description": ""
+    },
+    {
+      "name": "Uyghur",
+      "completeness": "4%",
+      "description": ""
+    },
+    {
+      "name": "Warlpiri",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Washo",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Wuhu Chinese",
+      "completeness": "19%",
+      "description": ""
+    }
+  ]
+}

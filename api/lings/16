@@ -1,0 +1,29 @@
+{
+  "group": "Conjunction And Disjunction",
+  "ling_name": "Language",
+  "lings": [{
+      "name": "Dutch",
+      "completeness": "50%",
+      "description": "",
+      "forms(s)": "allemaal"
+    },
+    {
+      "name": "English",
+      "completeness": "50%",
+      "description": "",
+      "forms(s)": "all,  every"
+    },
+    {
+      "name": "Nina's language",
+      "completeness": "0%",
+      "description": "",
+      "forms(s)": "No forms to display"
+    },
+    {
+      "name": "Protoindogermanisch",
+      "completeness": "50%",
+      "description": "",
+      "forms(s)": "hurk,  *kwe,  *n,  haRRRRrrrrk"
+    }
+  ]
+}

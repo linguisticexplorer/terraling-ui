@@ -1,0 +1,70 @@
+{
+  "user": "Shailesh Vasandani",
+  "user_id": "15",
+  "level": "user",
+  "groups": [
+    {
+      "group": "SSWL",
+      "group_id": 7,
+      "activity": [
+        {
+          "count": 3,
+          "action": "new",
+          "target": "ling",
+          "ling_name": "Language"
+        },
+        {
+          "count": 1,
+          "action": "edit",
+          "target": "ling",
+          "ling_name": "Language"
+        },
+        {
+          "count": 6,
+          "action": "edit",
+          "target": "property"
+        }
+      ]
+    },
+    {
+      "group": "Conjunction and Disjunction",
+      "group_id": 8,
+      "activity": []
+    },
+    {
+      "group": "Anaphora",
+      "group_id": 9,
+      "activity": [
+        {
+          "count": 1,
+          "action": "new",
+          "target": "ling",
+          "ling_name": "Language"
+        },
+        {
+          "count": 2,
+          "action": "new",
+          "target": "ling",
+          "ling_name": "Anaphor"
+        }
+      ]
+    },
+    {
+      "group": "Quantification",
+      "group_id": 16,
+      "activity": [
+        {
+          "count": 4,
+          "action": "new",
+          "target": "ling",
+          "ling_name": "Language"
+        },
+        {
+          "count": 2,
+          "action": "new",
+          "target": "property"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1580 @@
+{
+  "group": "SSWL",
+  "ling_name": "Language",
+  "lings": [{
+      "name": "=Hoan",
+      "completeness": "60%",
+      "description": ".. Values set by Chris Collins. Examples drawn from: Collins, Chris and Gruber, Jeff (2012) A Grammar of  ǂHȍã."
+    },
+    {
+      "name": "Abaza",
+      "completeness": "16%",
+      "description": ""
+    },
+    {
+      "name": "Abidji",
+      "completeness": "57%",
+      "description": "Abidji (actually \"ógbrû\" and égnébê as the Abidji people call themselves) is one of the Kwa languages of Côte d’Ivoire, like abbey, akyé, baoulé, the ebrié, etc. (see Hérault, 1983). This is an opportunity for us to point out that the term \"abidji\" refers to two dialects: the ógbrû dialect, object of our study, spoken in seven villages: Agouaye, Aka-Obou, Elibou, Gomon , N'Doumi-Obou, Sahuyé and Yaobou and the égnébê dialect in the other seven villages: Bakanou A, Bakanou B, Bécédi, Brafe-Obou, Katadji, Soukou-Obou and Sikensi (administrative center for the population of the region) .  The Abidji region is located at the south of Côte d'Ivoire, 60 km from Abidjan (the economic and administrative capital since 1960) and covers an area of 1,427 km2 against 322,462 km2 that covers the entire country with a population of 81'928 inhabitants against the 23 202 000 inhabitants. The Abidji constitute a small community with a strong cultural tradition, including the \"Dipri\" festival. Contributed by Clarisse Hager-M'Boua."
+    },
+    {
+      "name": "Acehnese",
+      "completeness": "43%",
+      "description": "...contributed by Juie Anne Legate"
+    },
+    {
+      "name": "Adyghe",
+      "completeness": "9%",
+      "description": ""
+    },
+    {
+      "name": "Afrikaans",
+      "completeness": "57%",
+      "description": "...contributed by Theresa Biberauer"
+    },
+    {
+      "name": "Agni (Bini)",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Agni (Indénié)",
+      "completeness": "35%",
+      "description": ""
+    },
+    {
+      "name": "Akan (Twi)",
+      "completeness": "60%",
+      "description": "...contributed by Augustina Owusu, who also contributes to the Afranaph project. https://www.africananaphora.rutgers.edu/akan-cf"
+    },
+    {
+      "name": "Akyé",
+      "completeness": "7%",
+      "description": "...contributed by Joseph Bogny (Bogny Yapo Joseph)"
+    },
+    {
+      "name": "Albanian",
+      "completeness": "58%",
+      "description": "...contributed by Dalina Kallulli."
+    },
+    {
+      "name": "American Sign Language",
+      "completeness": "46%",
+      "description": "...contributed by Natasha Abner"
+    },
+    {
+      "name": "Amharic",
+      "completeness": "63%",
+      "description": "...contributed by Girma Demeke."
+    },
+    {
+      "name": "Arabic (Eastern)",
+      "completeness": "20%",
+      "description": ""
+    },
+    {
+      "name": "Arabic (Gulf)",
+      "completeness": "57%",
+      "description": ""
+    },
+    {
+      "name": "Arabic (Lebanese)",
+      "completeness": "40%",
+      "description": "... contributed by Lina Choueiri"
+    },
+    {
+      "name": "Arabic (Moroccan)",
+      "completeness": "55%",
+      "description": ""
+    },
+    {
+      "name": "Armenian (Classical)",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Armenian (Eastern)",
+      "completeness": "81%",
+      "description": "... contributed by Sona Haroutyunian"
+    },
+    {
+      "name": "Armenian (Eastern1)",
+      "completeness": "43%",
+      "description": ""
+    },
+    {
+      "name": "Armenian (Western)",
+      "completeness": "56%",
+      "description": ""
+    },
+    {
+      "name": "Atayal (Squliq)",
+      "completeness": "6%",
+      "description": ""
+    },
+    {
+      "name": "Avikam (Toukouzou)",
+      "completeness": "6%",
+      "description": ""
+    },
+    {
+      "name": "Aymara",
+      "completeness": "11%",
+      "description": ""
+    },
+    {
+      "name": "Babanki",
+      "completeness": "25%",
+      "description": "...contributed by Pius Akumbu, who also contributes to the Afranaph project. https://www.africananaphora.rutgers.edu/babanki-kejom-casemenu-201"
+    },
+    {
+      "name": "Bafut",
+      "completeness": "75%",
+      "description": "..contributed by Pius Tamanji (1949 - 2014)."
+    },
+    {
+      "name": "Bajau (West Coast)",
+      "completeness": "33%",
+      "description": ""
+    },
+    {
+      "name": "Bambara",
+      "completeness": "54%",
+      "description": ""
+    },
+    {
+      "name": "Bandial",
+      "completeness": "54%",
+      "description": ""
+    },
+    {
+      "name": "Baoulé Walèbo",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Bardi",
+      "completeness": "50%",
+      "description": "..Data provided by Claire Bowern."
+    },
+    {
+      "name": "Basaá",
+      "completeness": "90%",
+      "description": "...contributed by Paul Roger Bassong, who also contributes to the Afranaph project https://www.africananaphora.rutgers.edu/basaa."
+    },
+    {
+      "name": "Basque",
+      "completeness": "36%",
+      "description": ""
+    },
+    {
+      "name": "Baule (agba)",
+      "completeness": "17%",
+      "description": ""
+    },
+    {
+      "name": "Baule (goli)",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Baule (Kôdeh)",
+      "completeness": "12%",
+      "description": ""
+    },
+    {
+      "name": "Beng",
+      "completeness": "39%",
+      "description": "...Contributed by Dennis Paperno."
+    },
+    {
+      "name": "Bengali",
+      "completeness": "36%",
+      "description": ""
+    },
+    {
+      "name": "Bété (jʊ́kɔ̄ɡbʊ́)",
+      "completeness": "40%",
+      "description": ""
+    },
+    {
+      "name": "Blackfoot",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Bole",
+      "completeness": "44%",
+      "description": ""
+    },
+    {
+      "name": "Bosnian",
+      "completeness": "3%",
+      "description": ""
+    },
+    {
+      "name": "Breton",
+      "completeness": "23%",
+      "description": ""
+    },
+    {
+      "name": "Bulgarian",
+      "completeness": "36%",
+      "description": ""
+    },
+    {
+      "name": "Burmese",
+      "completeness": "46%",
+      "description": ""
+    },
+    {
+      "name": "Cantonese (Guangzhou)",
+      "completeness": "93%",
+      "description": ""
+    },
+    {
+      "name": "Catalan",
+      "completeness": "90%",
+      "description": ""
+    },
+    {
+      "name": "Chichewa",
+      "completeness": "37%",
+      "description": ""
+    },
+    {
+      "name": "Chickasaw",
+      "completeness": "69%",
+      "description": "..Contributed by Pam Munro"
+    },
+    {
+      "name": "Chinese (Wuhu)",
+      "completeness": "90%",
+      "description": ""
+    },
+    {
+      "name": "Chol",
+      "completeness": "44%",
+      "description": ""
+    },
+    {
+      "name": "Cimbrian",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Cira",
+      "completeness": "18%",
+      "description": ""
+    },
+    {
+      "name": "Croatian",
+      "completeness": "86%",
+      "description": ""
+    },
+    {
+      "name": "Czech",
+      "completeness": "49%",
+      "description": ""
+    },
+    {
+      "name": "Dagaare",
+      "completeness": "44%",
+      "description": ""
+    },
+    {
+      "name": "Dagara (Burkina)",
+      "completeness": "100%",
+      "description": "...contributed by Alain Hien (native speaker linguist)."
+    },
+    {
+      "name": "Danish",
+      "completeness": "78%",
+      "description": ""
+    },
+    {
+      "name": "Dholuo",
+      "completeness": "52%",
+      "description": ""
+    },
+    {
+      "name": "Dida Lakota (diéko)",
+      "completeness": "66%",
+      "description": ""
+    },
+    {
+      "name": "Digo",
+      "completeness": "44%",
+      "description": ""
+    },
+    {
+      "name": "Dioula",
+      "completeness": "18%",
+      "description": ""
+    },
+    {
+      "name": "Djambarrpuyŋu",
+      "completeness": "3%",
+      "description": ""
+    },
+    {
+      "name": "Dschang (Foto)",
+      "completeness": "2%",
+      "description": ""
+    },
+    {
+      "name": "Dutch",
+      "completeness": "100%",
+      "description": ""
+    },
+    {
+      "name": "Dutch (Middle)",
+      "completeness": "48%",
+      "description": ""
+    },
+    {
+      "name": "Ega",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "English",
+      "completeness": "98%",
+      "description": ""
+    },
+    {
+      "name": "English (Middle)",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "English (Old)",
+      "completeness": "68%",
+      "description": ""
+    },
+    {
+      "name": "English (Singapore)",
+      "completeness": "57%",
+      "description": ""
+    },
+    {
+      "name": "Estonian",
+      "completeness": "43%",
+      "description": ""
+    },
+    {
+      "name": "Ewe",
+      "completeness": "37%",
+      "description": ""
+    },
+    {
+      "name": "Ewondo",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Farefari",
+      "completeness": "32%",
+      "description": ""
+    },
+    {
+      "name": "Faroese",
+      "completeness": "87%",
+      "description": ""
+    },
+    {
+      "name": "Farsi",
+      "completeness": "26%",
+      "description": ""
+    },
+    {
+      "name": "Fe'efe'e",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Fijian",
+      "completeness": "26%",
+      "description": ""
+    },
+    {
+      "name": "Finnish",
+      "completeness": "75%",
+      "description": ""
+    },
+    {
+      "name": "Flemish (West)",
+      "completeness": "55%",
+      "description": ""
+    },
+    {
+      "name": "French",
+      "completeness": "96%",
+      "description": ""
+    },
+    {
+      "name": "French (Ivorian)",
+      "completeness": "37%",
+      "description": ""
+    },
+    {
+      "name": "French (Old)",
+      "completeness": "66%",
+      "description": ""
+    },
+    {
+      "name": "Frisian (West Frisian)",
+      "completeness": "44%",
+      "description": ""
+    },
+    {
+      "name": "Ga",
+      "completeness": "55%",
+      "description": ""
+    },
+    {
+      "name": "galician",
+      "completeness": "57%",
+      "description": ""
+    },
+    {
+      "name": "Garifuna",
+      "completeness": "61%",
+      "description": ""
+    },
+    {
+      "name": "Georgian",
+      "completeness": "57%",
+      "description": "...Data provided by Léa Nash."
+    },
+    {
+      "name": "German",
+      "completeness": "100%",
+      "description": ""
+    },
+    {
+      "name": "German (Swiss)",
+      "completeness": "41%",
+      "description": ""
+    },
+    {
+      "name": "Ghɔmáĺá'",
+      "completeness": "23%",
+      "description": ""
+    },
+    {
+      "name": "Gitksan",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Gothic",
+      "completeness": "74%",
+      "description": "..Contributed by Fabrício Ferraz Gerardi"
+    },
+    {
+      "name": "Gouro",
+      "completeness": "23%",
+      "description": ""
+    },
+    {
+      "name": "Greek",
+      "completeness": "92%",
+      "description": ""
+    },
+    {
+      "name": "Greek (Ancient)",
+      "completeness": "81%",
+      "description": ""
+    },
+    {
+      "name": "Greek (Calabria)",
+      "completeness": "56%",
+      "description": ""
+    },
+    {
+      "name": "Greek (Cappadocian)",
+      "completeness": "90%",
+      "description": "...Contributed by Petros Karatsareas"
+    },
+    {
+      "name": "Greek (Cypriot)",
+      "completeness": "90%",
+      "description": ""
+    },
+    {
+      "name": "Greek (Homer)",
+      "completeness": "81%",
+      "description": ""
+    },
+    {
+      "name": "Greek (Kydonies)",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Greek (Lesbos)",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Greek (Medieval)",
+      "completeness": "56%",
+      "description": ""
+    },
+    {
+      "name": "Greek (Pontic)",
+      "completeness": "36%",
+      "description": ""
+    },
+    {
+      "name": "Greenlandic, West (Kalaallisut)",
+      "completeness": "17%",
+      "description": ""
+    },
+    {
+      "name": "Guébie",
+      "completeness": "64%",
+      "description": "..Contributed by Hannah Sande"
+    },
+    {
+      "name": "Guéré (bangolo)",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Gungbe (Porto-Novo)",
+      "completeness": "79%",
+      "description": "...contributed by Enoch Aboh, who also contributes to the afranaph project https://www.africananaphora.rutgers.edu/gungbe-casemenu-171"
+    },
+    {
+      "name": "Gurene",
+      "completeness": "36%",
+      "description": ""
+    },
+    {
+      "name": "Haitian",
+      "completeness": "75%",
+      "description": ""
+    },
+    {
+      "name": "Hakka",
+      "completeness": "38%",
+      "description": ""
+    },
+    {
+      "name": "Hän",
+      "completeness": "6%",
+      "description": ""
+    },
+    {
+      "name": "Hanga",
+      "completeness": "23%",
+      "description": ""
+    },
+    {
+      "name": "Hausa",
+      "completeness": "76%",
+      "description": ""
+    },
+    {
+      "name": "Hebrew",
+      "completeness": "70%",
+      "description": ""
+    },
+    {
+      "name": "Hebrew (Biblical)",
+      "completeness": "84%",
+      "description": ""
+    },
+    {
+      "name": "Hill Mari",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Hindi",
+      "completeness": "49%",
+      "description": ""
+    },
+    {
+      "name": "Hittite",
+      "completeness": "30%",
+      "description": ""
+    },
+    {
+      "name": "Hixkaryana",
+      "completeness": "41%",
+      "description": ""
+    },
+    {
+      "name": "Hungarian",
+      "completeness": "69%",
+      "description": ""
+    },
+    {
+      "name": "Ibibio",
+      "completeness": "57%",
+      "description": ""
+    },
+    {
+      "name": "Icelandic",
+      "completeness": "57%",
+      "description": ""
+    },
+    {
+      "name": "Igala",
+      "completeness": "26%",
+      "description": ""
+    },
+    {
+      "name": "Igbo",
+      "completeness": "72%",
+      "description": "...contributed by Mary Amaechi."
+    },
+    {
+      "name": "Iha",
+      "completeness": "46%",
+      "description": ""
+    },
+    {
+      "name": "Ijo (Kaiama)",
+      "completeness": "8%",
+      "description": ""
+    },
+    {
+      "name": "Ilokano",
+      "completeness": "23%",
+      "description": ""
+    },
+    {
+      "name": "Imbabura quichua",
+      "completeness": "69%",
+      "description": ""
+    },
+    {
+      "name": "Indonesian",
+      "completeness": "52%",
+      "description": ""
+    },
+    {
+      "name": "Irish",
+      "completeness": "23%",
+      "description": ""
+    },
+    {
+      "name": "Isbukun Bunun",
+      "completeness": "26%",
+      "description": ""
+    },
+    {
+      "name": "Italian",
+      "completeness": "100%",
+      "description": ""
+    },
+    {
+      "name": "Italian (Casalasco)",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Italian (Old)",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Italian (Rumagnol)",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Italy (Napoletano Antico)",
+      "completeness": "68%",
+      "description": ""
+    },
+    {
+      "name": "Italy (Napoletano)",
+      "completeness": "43%",
+      "description": ""
+    },
+    {
+      "name": "Italy (Northern Calabrese)",
+      "completeness": "91%",
+      "description": ""
+    },
+    {
+      "name": "Italy (Reggiano)",
+      "completeness": "90%",
+      "description": ""
+    },
+    {
+      "name": "Italy (Siciliano)",
+      "completeness": "100%",
+      "description": ""
+    },
+    {
+      "name": "Italy (Swiss Bellinzonese)",
+      "completeness": "33%",
+      "description": ""
+    },
+    {
+      "name": "Italy (Teramano)",
+      "completeness": "90%",
+      "description": ""
+    },
+    {
+      "name": "Italy (Venetian)",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Jamaican Creole English",
+      "completeness": "42%",
+      "description": ""
+    },
+    {
+      "name": "Japanese",
+      "completeness": "89%",
+      "description": ""
+    },
+    {
+      "name": "Jarawara",
+      "completeness": "29%",
+      "description": ""
+    },
+    {
+      "name": "Jingulu",
+      "completeness": "21%",
+      "description": ""
+    },
+    {
+      "name": "K'iche'",
+      "completeness": "57%",
+      "description": ""
+    },
+    {
+      "name": "Kannada (Bengaluru-Mysore)",
+      "completeness": "25%",
+      "description": ""
+    },
+    {
+      "name": "Kaowlu",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Kaqchikel",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Karachay",
+      "completeness": "23%",
+      "description": ""
+    },
+    {
+      "name": "Kashaya",
+      "completeness": "46%",
+      "description": ""
+    },
+    {
+      "name": "Kayan",
+      "completeness": "29%",
+      "description": ""
+    },
+    {
+      "name": "Kenyang",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Khasi",
+      "completeness": "33%",
+      "description": ""
+    },
+    {
+      "name": "KiLega",
+      "completeness": "67%",
+      "description": ""
+    },
+    {
+      "name": "Kinande",
+      "completeness": "40%",
+      "description": ".. contributed by Ngessimo Mathe Mutaka and Patricia Schneider. Mutaka also contributes to the Afranaph project. https://www.africananaphora.rutgers.edu/kinande-casemenu-145?task=view&id=109"
+    },
+    {
+      "name": "Kindendeule",
+      "completeness": "13%",
+      "description": ""
+    },
+    {
+      "name": "Kiswahili",
+      "completeness": "46%",
+      "description": ""
+    },
+    {
+      "name": "Kiyaka",
+      "completeness": "43%",
+      "description": ""
+    },
+    {
+      "name": "Kom",
+      "completeness": "57%",
+      "description": ""
+    },
+    {
+      "name": "Konni",
+      "completeness": "22%",
+      "description": ""
+    },
+    {
+      "name": "Konso (Faaʃe)",
+      "completeness": "48%",
+      "description": "All data extracted from Orkaydo, Ongaye Oda. 2013. A grammar of Konso. Utrecht: LOT.http://www.lotpublications.nl/a-grammar-of-konso-a-grammar-of-konso"
+    },
+    {
+      "name": "Korean",
+      "completeness": "90%",
+      "description": ""
+    },
+    {
+      "name": "Koulangou (Bondoukou)",
+      "completeness": "7%",
+      "description": ""
+    },
+    {
+      "name": "Koyo",
+      "completeness": "14%",
+      "description": ""
+    },
+    {
+      "name": "Kuot",
+      "completeness": "57%",
+      "description": ""
+    },
+    {
+      "name": "Kurdish (Sorani)",
+      "completeness": "57%",
+      "description": ""
+    },
+    {
+      "name": "Kusaal",
+      "completeness": "60%",
+      "description": ""
+    },
+    {
+      "name": "Kusunda",
+      "completeness": "53%",
+      "description": ""
+    },
+    {
+      "name": "Laal",
+      "completeness": "55%",
+      "description": ""
+    },
+    {
+      "name": "Lango",
+      "completeness": "45%",
+      "description": ""
+    },
+    {
+      "name": "languageX",
+      "completeness": "1%",
+      "description": "not a real language. Required to set some values. Remove from searches."
+    },
+    {
+      "name": "Lani",
+      "completeness": "22%",
+      "description": ""
+    },
+    {
+      "name": "Lao",
+      "completeness": "48%",
+      "description": ""
+    },
+    {
+      "name": "Latin",
+      "completeness": "90%",
+      "description": ""
+    },
+    {
+      "name": "Latin (Late)",
+      "completeness": "66%",
+      "description": ""
+    },
+    {
+      "name": "Lithuanian",
+      "completeness": "33%",
+      "description": "..contributed by Felix Thies."
+    },
+    {
+      "name": "Lubukusu",
+      "completeness": "33%",
+      "description": ""
+    },
+    {
+      "name": "Maasai (Kisongo)",
+      "completeness": "48%",
+      "description": ""
+    },
+    {
+      "name": "Mada",
+      "completeness": "58%",
+      "description": ""
+    },
+    {
+      "name": "Mahou",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Malagasy",
+      "completeness": "84%",
+      "description": "...contributed by Edward Keenan and Laura Kalin."
+    },
+    {
+      "name": "Malay (Papuan)",
+      "completeness": "43%",
+      "description": ""
+    },
+    {
+      "name": "Malayalam",
+      "completeness": "41%",
+      "description": ""
+    },
+    {
+      "name": "Mamaindé",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Mandarin",
+      "completeness": "69%",
+      "description": ""
+    },
+    {
+      "name": "Mankanya",
+      "completeness": "9%",
+      "description": ""
+    },
+    {
+      "name": "Maori",
+      "completeness": "36%",
+      "description": ""
+    },
+    {
+      "name": "Marshallese",
+      "completeness": "53%",
+      "description": ""
+    },
+    {
+      "name": "Masarak",
+      "completeness": "22%",
+      "description": ""
+    },
+    {
+      "name": "Mbuko",
+      "completeness": "18%",
+      "description": ""
+    },
+    {
+      "name": "Medumba",
+      "completeness": "31%",
+      "description": ""
+    },
+    {
+      "name": "Meeteilon",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Mixtec (Chalcatongo)",
+      "completeness": "18%",
+      "description": ""
+    },
+    {
+      "name": "Mixtec (San Sebastián del Monte)",
+      "completeness": "50%",
+      "description": ".. data provided by Iara Mantenuto, Tatevik Shahinyan and Angela Xu Sicong."
+    },
+    {
+      "name": "Miya",
+      "completeness": "54%",
+      "description": ""
+    },
+    {
+      "name": "Mòcheno",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Mohawk",
+      "completeness": "26%",
+      "description": ""
+    },
+    {
+      "name": "Montenegrin",
+      "completeness": "3%",
+      "description": ""
+    },
+    {
+      "name": "Moskona",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "mɔ́dӡúkrù",
+      "completeness": "55%",
+      "description": "Mɔ́dӡúkrù is a Kwa language spoken in the Ivory Coast. Some standard references on the language are \"Elements de grammaire adioukrou. Abidjan: Institut de linguistique appliquée\"(Hérault 1978), \"Le verbe Adioukrou: Étude morphologique et syntaxique\"(Mel 1981) and \"Nominal Structures in  Adioukrou\" (Kaul 2005). Mɔ́dӡúkrù is a language with noun classes."
+    },
+    {
+      "name": "Mundurukú",
+      "completeness": "52%",
+      "description": "The Mundurukú branch of the Tupían family consists of two languages: Kuruaya (extinct for about twenty years) and Mundurkú, a language spoken in the Brazilian Amazon by ca. 6000 (estimated) natives.    Contributed by Fabrício Ferraz Gerardi."
+    },
+    {
+      "name": "Muyang",
+      "completeness": "89%",
+      "description": "Muyang is an Afro-asiatic language (Central Chadic A, the Biu-Mandara branch and the Wandala-Mafa-Sukur sub-branch) (see Dieu and al.: 1983, Barreteau and al.: 1984, Boutrais and al.: 2000, Seignobos: 2000, Smith: 2006, Gravina and Smith: 2010 and Bebey: 2010). Muyang is the name given both to the language and its approx 30,000 speakers who live in a village called Mouyengue situated in the southern area of Lake Chad, more particularly in the Far North Region of the Republic of Cameroon, division May. Bebey Lawane, who is a native speaker of Muyang, and a trained linguist provided all data on Muyang."
+    },
+    {
+      "name": "N'zima (Tiapoum)",
+      "completeness": "72%",
+      "description": ""
+    },
+    {
+      "name": "N|u",
+      "completeness": "21%",
+      "description": ""
+    },
+    {
+      "name": "Nafara (Napié)",
+      "completeness": "17%",
+      "description": ""
+    },
+    {
+      "name": "Nahuatl (Central Huasteca)",
+      "completeness": "54%",
+      "description": ""
+    },
+    {
+      "name": "Nahuatl (Classical)",
+      "completeness": "43%",
+      "description": ""
+    },
+    {
+      "name": "Naki",
+      "completeness": "19%",
+      "description": ""
+    },
+    {
+      "name": "Navajo",
+      "completeness": "24%",
+      "description": ""
+    },
+    {
+      "name": "Nawdm",
+      "completeness": "40%",
+      "description": ""
+    },
+    {
+      "name": "nda'nda'",
+      "completeness": "28%",
+      "description": ""
+    },
+    {
+      "name": "Ndut",
+      "completeness": "21%",
+      "description": ""
+    },
+    {
+      "name": "Nepali",
+      "completeness": "55%",
+      "description": ""
+    },
+    {
+      "name": "Nez Perce",
+      "completeness": "20%",
+      "description": ""
+    },
+    {
+      "name": "Niuean",
+      "completeness": "6%",
+      "description": ""
+    },
+    {
+      "name": "Nkore-Kiga",
+      "completeness": "38%",
+      "description": ""
+    },
+    {
+      "name": "Nones",
+      "completeness": "2%",
+      "description": "Nones is a variety of Ladin as the ethnologue classifies it (https://www.ethnologue.com/language/lld"
+    },
+    {
+      "name": "Norse (Old)",
+      "completeness": "48%",
+      "description": "contributed by Fabrício Ferraz Gerardi"
+    },
+    {
+      "name": "Norwegian",
+      "completeness": "100%",
+      "description": ""
+    },
+    {
+      "name": "Nupe",
+      "completeness": "69%",
+      "description": ""
+    },
+    {
+      "name": "Nweh",
+      "completeness": "53%",
+      "description": ""
+    },
+    {
+      "name": "Occitan",
+      "completeness": "13%",
+      "description": ""
+    },
+    {
+      "name": "Odia (Oriya)",
+      "completeness": "4%",
+      "description": ""
+    },
+    {
+      "name": "Oevdalian",
+      "completeness": "2%",
+      "description": ""
+    },
+    {
+      "name": "Okinawan",
+      "completeness": "42%",
+      "description": ""
+    },
+    {
+      "name": "Olukumi",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Oluwanga",
+      "completeness": "35%",
+      "description": ""
+    },
+    {
+      "name": "Oluwanga (Eji)",
+      "completeness": "84%",
+      "description": ""
+    },
+    {
+      "name": "One",
+      "completeness": "44%",
+      "description": ""
+    },
+    {
+      "name": "Ossetic (Digor)",
+      "completeness": "44%",
+      "description": ""
+    },
+    {
+      "name": "Ossetic (Iron)",
+      "completeness": "44%",
+      "description": ""
+    },
+    {
+      "name": "Palue",
+      "completeness": "23%",
+      "description": ""
+    },
+    {
+      "name": "panjabi",
+      "completeness": "47%",
+      "description": ""
+    },
+    {
+      "name": "Pashto",
+      "completeness": "54%",
+      "description": ""
+    },
+    {
+      "name": "Pima",
+      "completeness": "43%",
+      "description": ""
+    },
+    {
+      "name": "Polish",
+      "completeness": "52%",
+      "description": ""
+    },
+    {
+      "name": "Pomeranian (Brazilian)",
+      "completeness": "0%",
+      "description": ""
+    },
+    {
+      "name": "Portuguese",
+      "completeness": "90%",
+      "description": ""
+    },
+    {
+      "name": "Portuguese (Brazilian)",
+      "completeness": "66%",
+      "description": ""
+    },
+    {
+      "name": "Portuguese (European)",
+      "completeness": "31%",
+      "description": ""
+    },
+    {
+      "name": "Q'anjob'al",
+      "completeness": "51%",
+      "description": ""
+    },
+    {
+      "name": "Q'eqchi'",
+      "completeness": "2%",
+      "description": ""
+    },
+    {
+      "name": "Romani (Burgendland)",
+      "completeness": "16%",
+      "description": ""
+    },
+    {
+      "name": "Romanian",
+      "completeness": "90%",
+      "description": ""
+    },
+    {
+      "name": "Russian",
+      "completeness": "90%",
+      "description": ""
+    },
+    {
+      "name": "Salasaca Quichua",
+      "completeness": "33%",
+      "description": ""
+    },
+    {
+      "name": "Samoan",
+      "completeness": "73%",
+      "description": ""
+    },
+    {
+      "name": "San Dionisio Ocotepec Zapotec",
+      "completeness": "44%",
+      "description": ""
+    },
+    {
+      "name": "Sandawe",
+      "completeness": "49%",
+      "description": ""
+    },
+    {
+      "name": "Sanskrit (Vedic)",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Saramaccan",
+      "completeness": "10%",
+      "description": ""
+    },
+    {
+      "name": "Sasak",
+      "completeness": "40%",
+      "description": ""
+    },
+    {
+      "name": "Saweru",
+      "completeness": "18%",
+      "description": ""
+    },
+    {
+      "name": "Saxon (Old)",
+      "completeness": "69%",
+      "description": "...contributed by George Waldken"
+    },
+    {
+      "name": "Scottish Gaelic",
+      "completeness": "43%",
+      "description": ""
+    },
+    {
+      "name": "Senaya",
+      "completeness": "27%",
+      "description": ""
+    },
+    {
+      "name": "Serbian",
+      "completeness": "100%",
+      "description": ""
+    },
+    {
+      "name": "Shan",
+      "completeness": "32%",
+      "description": ""
+    },
+    {
+      "name": "Shupamem",
+      "completeness": "95%",
+      "description": "..Contributed by Abdoulaye Laziz Nchare."
+    },
+    {
+      "name": "Skou",
+      "completeness": "52%",
+      "description": ""
+    },
+    {
+      "name": "Slovenian",
+      "completeness": "30%",
+      "description": ""
+    },
+    {
+      "name": "Sm'algyax",
+      "completeness": "3%",
+      "description": ""
+    },
+    {
+      "name": "Spanish",
+      "completeness": "81%",
+      "description": ""
+    },
+    {
+      "name": "St'át'imcets",
+      "completeness": "9%",
+      "description": ""
+    },
+    {
+      "name": "Swedish",
+      "completeness": "70%",
+      "description": ""
+    },
+    {
+      "name": "Tagalog",
+      "completeness": "53%",
+      "description": ""
+    },
+    {
+      "name": "Taiwanese Southern Min",
+      "completeness": "57%",
+      "description": ""
+    },
+    {
+      "name": "Tarascan",
+      "completeness": "16%",
+      "description": ""
+    },
+    {
+      "name": "Tatar",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Telugu",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Teochew",
+      "completeness": "34%",
+      "description": ""
+    },
+    {
+      "name": "testlanguage",
+      "completeness": "1%",
+      "description": "Not a real languages--do not delete. This testlanguage is necessary to set some initial property values."
+    },
+    {
+      "name": "Thai",
+      "completeness": "54%",
+      "description": ""
+    },
+    {
+      "name": "Thai (Northern)",
+      "completeness": "44%",
+      "description": ""
+    },
+    {
+      "name": "Tigre",
+      "completeness": "27%",
+      "description": ""
+    },
+    {
+      "name": "Titan",
+      "completeness": "33%",
+      "description": ""
+    },
+    {
+      "name": "Tiwa",
+      "completeness": "25%",
+      "description": ""
+    },
+    {
+      "name": "Tlingit",
+      "completeness": "30%",
+      "description": ""
+    },
+    {
+      "name": "Tocharian A",
+      "completeness": "18%",
+      "description": ""
+    },
+    {
+      "name": "Tocharian B",
+      "completeness": "16%",
+      "description": ""
+    },
+    {
+      "name": "Tommo-So",
+      "completeness": "51%",
+      "description": ""
+    },
+    {
+      "name": "Tongan",
+      "completeness": "33%",
+      "description": ""
+    },
+    {
+      "name": "Triqui, Copala",
+      "completeness": "43%",
+      "description": ""
+    },
+    {
+      "name": "Tukang Besi",
+      "completeness": "55%",
+      "description": ""
+    },
+    {
+      "name": "Tuki (Tukombo)",
+      "completeness": "56%",
+      "description": ""
+    },
+    {
+      "name": "Tuparí",
+      "completeness": "1%",
+      "description": ""
+    },
+    {
+      "name": "Tupí/Tupinambá",
+      "completeness": "100%",
+      "description": "Tupinambá is an extinct language of the Tupí-Guaraní branch of Tupí, the largest language family in South-America. The language was spoken along most of the Brazilian coast at the time of the arrival of the Portuguese (1500). Although the Tupinambá people still exist, they have no command of the language. It is the most conservative language of the TG branch, and TG languages that are still spoken today bear many similarities with Tupinambá (lexical, morphological and syntactical).   Contributed by Fabrício Ferraz Gerardi"
+    },
+    {
+      "name": "Turkish",
+      "completeness": "90%",
+      "description": ""
+    },
+    {
+      "name": "Tuvan",
+      "completeness": "38%",
+      "description": ""
+    },
+    {
+      "name": "Twi",
+      "completeness": "57%",
+      "description": "contributed by Cansada Martin"
+    },
+    {
+      "name": "Udmurt",
+      "completeness": "15%",
+      "description": ""
+    },
+    {
+      "name": "Ukrainian",
+      "completeness": "44%",
+      "description": ""
+    },
+    {
+      "name": "Uyghur",
+      "completeness": "21%",
+      "description": ""
+    },
+    {
+      "name": "Vata",
+      "completeness": "70%",
+      "description": ""
+    },
+    {
+      "name": "Vietnamese",
+      "completeness": "80%",
+      "description": ""
+    },
+    {
+      "name": "Vlaški-Žejanski-Istro-Romanian",
+      "completeness": "30%",
+      "description": ""
+    },
+    {
+      "name": "Wan",
+      "completeness": "26%",
+      "description": ""
+    },
+    {
+      "name": "Warlpiri",
+      "completeness": "23%",
+      "description": ""
+    },
+    {
+      "name": "Welsh",
+      "completeness": "21%",
+      "description": ""
+    },
+    {
+      "name": "Wobé",
+      "completeness": "49%",
+      "description": ""
+    },
+    {
+      "name": "Wolane",
+      "completeness": "33%",
+      "description": ""
+    },
+    {
+      "name": "Wolof",
+      "completeness": "66%",
+      "description": ""
+    },
+    {
+      "name": "Xhosa",
+      "completeness": "63%",
+      "description": ""
+    },
+    {
+      "name": "Yan-nhaŋu",
+      "completeness": "31%",
+      "description": ""
+    },
+    {
+      "name": "Yawa",
+      "completeness": "33%",
+      "description": ""
+    },
+    {
+      "name": "Yémba",
+      "completeness": "53%",
+      "description": ""
+    },
+    {
+      "name": "Yiddish",
+      "completeness": "23%",
+      "description": ""
+    },
+    {
+      "name": "Yoruba",
+      "completeness": "43%",
+      "description": ""
+    },
+    {
+      "name": "Zamboageño Chabacano",
+      "completeness": "44%",
+      "description": ""
+    },
+    {
+      "name": "Zulu",
+      "completeness": "45%",
+      "description": ""
+    }
+  ]
+}

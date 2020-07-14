@@ -1,0 +1,15 @@
+{
+  "user": "Shailesh Vasandani",
+  "user_id": 15,
+  "group": "Anaphora",
+  "depth": 2,
+  "ling": "Language",
+  "ling_count": 16,
+  "linglet": "Anaphor",
+  "linglet_count": 20,
+  "property_count": 22,
+  "member_count": 16,
+  "example_count": 52,
+  "value_count": 89,
+  "description": "In rhetoric, an anaphora (Greek: ἀναφορά, \"carrying back\") is a rhetorical device that consists of repeating a sequence of words at the beginnings of neighboring clauses, thereby lending them emphasis. In contrast, an epistrophe (or epiphora) is repeating words at the clauses' ends. The combination of anaphora and epistrophe results in symploce."
+}

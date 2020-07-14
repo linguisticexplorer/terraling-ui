@@ -1,0 +1,15 @@
+{
+  "user": "Shailesh Vasandani",
+  "user_id": 15,
+  "group": "Quantification",
+  "depth": 2,
+  "ling": "Language",
+  "ling_count": 4,
+  "linglet": "Form",
+  "linglet_count": 7,
+  "property_count": 6,
+  "member_count": 4,
+  "example_count": 2,
+  "value_count": 10,
+  "description": "In linguistics and grammar, a quantifier is a type of determiner, such as all, some, many, few, a lot, and no, (but not specific numerals) that indicates quantity. Quantification is also used in logic, where it is a formula constructor that produces new formulas from old ones. Natural languages' determiners have been argued to correspond to logical quantifiers at the semantic level."
+}

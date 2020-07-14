@@ -1,0 +1,25 @@
+{
+  "user": "Shailesh Vasandani",
+  "user_id": 15,
+  "group": "SSWL",
+  "depth": 1,
+  "ling": "Language",
+  "ling_count": 315,
+  "property_count": 165,
+  "member_count": 455,
+  "example_count": 5755,
+  "value_count": 21919,
+  "description": "SSWL (Syntactic Structure of the World's Languages) is a open-ended database of syntactic, morphological and semantic properties. Each language is characterized by a set of property-value pairs (e.g., Object Verb: Yes), and examples that illustrate these property value pairs. A rich variety of search functions are available, as well as mapping and the creation of similarity trees.",
+  "maintainers": [
+    {
+      "user": "Hilda Koopman",
+      "user_id": 1,
+      "membership": 6
+    },
+    {
+      "user": "Nina Haslinger",
+      "user_id": 2,
+      "membership": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "user": "Shailesh Vasandani",
+  "user_id": 15,
+  "group": "Conjunction and Disjunction",
+  "depth": 1,
+  "ling": "Language",
+  "ling_count": 45,
+  "property_count": 86,
+  "member_count": 46,
+  "example_count": 630,
+  "value_count": 1187,
+  "description": "In logic, disjunction is a binary connective (∨) classically interpreted as a truth function the output of which is true if at least one of the input sentences (disjuncts) is true, and false otherwise. Its supposed connection with disjunctive words of natural language like or has long intrigued philosophers, logicians and linguists."
+}

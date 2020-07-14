@@ -1,0 +1,102 @@
+{
+  "group": "Conjunction And Disjunction",
+  "ling_name": "Language",
+  "lings": [{
+      "name": "Arabic",
+      "completeness": "5%",
+      "description": "",
+      "Anaphor(s)": "No anaphors to display"
+    },
+    {
+      "name": "Catalan",
+      "completeness": "0%",
+      "description": "",
+      "description": "",
+      "Anaphor(s)": "ell"
+    },
+    {
+      "name": "Chinese (Mandarin)",
+      "completeness": "5%",
+      "description": "",
+      "Anaphor(s)": "taziji,  ziji"
+    },
+    {
+      "name": "Croatian",
+      "completeness": "0%",
+      "description": "",
+      "Anaphor(s)": "sebe"
+    },
+    {
+      "name": "English",
+      "completeness": "94%",
+      "description": "",
+      "Anaphor(s)": "himself"
+    },
+    {
+      "name": "Estonian",
+      "completeness": "0%",
+      "description": "",
+      "Anaphor(s)": "ennast"
+    },
+    {
+      "name": "French",
+      "completeness": "94%",
+      "description": "",
+      "Anaphor(s)": "son propre,  elle-même"
+    },
+    {
+      "name": "Greek",
+      "completeness": "0%",
+      "description": "",
+      "Anaphor(s)": "o eaftos mu"
+    },
+    {
+      "name": "Hebrew",
+      "completeness": "0%",
+      "description": "",
+      "Anaphor(s)": "No anaphors to display"
+    },
+    {
+      "name": "Italian",
+      "completeness": "0%",
+      "description": "",
+      "Anaphor(s)": "No anaphors to display"
+    },
+    {
+      "name": "Japanese",
+      "completeness": "0%",
+      "description": "",
+      "Anaphor(s)": "zibun,  zibun-zisin"
+    },
+    {
+      "name": "Korean",
+      "completeness": "94%",
+      "description": "",
+      "Anaphor(s)": "casin,  cachey,  caki,  caki casin"
+    },
+    {
+      "name": "Persian",
+      "completeness": "0%",
+      "description": "",
+      "Anaphor(s)": "xod"
+    },
+    {
+      "name": "Spanish (Spain)",
+      "completeness": "0%",
+      "description": "",
+      "Anaphor(s)": "el"
+    },
+    {
+      "name": "Turkish",
+      "completeness": "89%",
+      "description": "",
+      "Anaphor(s)": "kendi,  kendisi"
+    },
+    {
+      "name": "Uyghur",
+      "completeness": "0%",
+      "description": "",
+      "Anaphor(s)": "özi"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "user": 15,
+  "access_token": "093h0vh2o0139fh09f2h",
+  "recent_activity": {
+    "past_day": [
+      {
+        "author": "Hilda Koopman",
+        "action": "add",
+        "count": 2,
+        "target": "ling",
+        "group": "SSWL",
+        "group_id": 7,
+        "ling_name": "Language",
+        "lings": [
+          {
+            "ling": "Hildese"
+          },
+          {
+            "ling": "Maltan"
+          }
+        ]
+      },
+      {
+        "author": "Viola Schmitt",
+        "action": "edit",
+        "count": 6,
+        "target": "property",
+        "group": "SSWL",
+        "group_id": 7,
+        "properties": [
+          {
+            "property": "01_SV"
+          },
+          {
+            "property": "02_VS"
+          },
+          {
+            "property": "03_VO"
+          },
+          {
+            "property": "04_OV"
+          },
+          {
+            "property": "05_SVO"
+          },
+          {
+            "property": "06_SOV"
+          }
+        ]
+      }
+    ],
+    "past_week": [
+      {
+        "author": "Viola Schmitt",
+        "action": "add",
+        "count": 4,
+        "target": "value",
+        "group": "SSWL",
+        "group_id": 7,
+        "ling_count": 1,
+        "ling_name": "Language",
+        "lings": [
+          {
+            "ling": "Spanish"
+          }
+        ]
+      },
+      {
+        "author": "Nina Haslinger",
+        "action": "add",
+        "count": 2,
+        "target": "property",
+        "group": "Quantification",
+        "group_id": 16,
+        "properties": [
+          {
+            "property": "\"Clausal\" quantifier"
+          },
+          {
+            "property": "D quantifier"
+          }
+        ]
+      },
+      {
+        "author": "Nina Haslinger",
+        "action": "add",
+        "count": 4,
+        "target": "ling",
+        "group": "Quantification",
+        "group_id": 16,
+        "ling_name": "Language",
+        "lings": [
+          {
+            "ling": "Dutch"
+          },
+          {
+            "ling": "English"
+          },
+          {
+            "ling": "Nina's Language"
+          },
+          {
+            "ling": "Protoindogermanisch"
+          }
+        ]
+      },
+      {
+        "author": "You",
+        "action": "add",
+        "count": 2,
+        "target": "ling",
+        "group": "Anaphora",
+        "group_id": 9,
+        "ling_name": "Anaphor",
+        "lings": [
+          {
+            "ling": "elle-même"
+          },
+          {
+            "ling": "cachey"
+          }
+        ]
+      }
+    ],
+    "further_back": [
+      {
+        "author": "Hilda Koopman",
+        "action": "edit",
+        "count": 1,
+        "target": "ling",
+        "group": "Anaphora",
+        "group_id": 9,
+        "ling_name": "Anaphor",
+        "lings": [
+          {
+            "ling": "el"
+          }
+        ]
+      },
+      {
+        "author": "Nina Haslinger",
+        "action": "add",
+        "count": 1,
+        "target": "ling",
+        "group": "Quantification",
+        "group_id": 16,
+        "ling_name": "Form",
+        "lings": [
+          {
+            "ling": "*kwe"
+          }
+        ]
+      },
+      {
+        "author": "Hilda Koopman",
+        "action": "add",
+        "count": 1,
+        "target": "ling",
+        "group": "Quantification",
+        "group_id": 16,
+        "ling_name": "Form",
+        "lings": [
+          {
+            "ling": "*n"
+          }
+        ]
+      },
+      {
+        "author": "Hilda Koopman",
+        "action": "delete",
+        "count": 2,
+        "target": "value",
+        "group": "SSWL",
+        "group_id": 7,
+        "ling_count": 1,
+        "ling_name": "Language",
+        "lings": [
+          {
+            "ling": "Chinese"
+          }
+        ]
+      },
+      {
+        "author": "You",
+        "action": "add",
+        "count": 1,
+        "target": "property",
+        "group": "Quantification",
+        "group_id": 16,
+        "properties": [
+          {
+            "property": "Homonymous with conjunction"
+          }
+        ]
+      },
+      {
+        "author": "You",
+        "action": "delete",
+        "count": 1,
+        "target": "property",
+        "group": "Quantification",
+        "group_id": 16,
+        "properties": [
+          {
+            "property": "Homonymous with conjunction"
+          }
+        ]
+      },
+      {
+        "author": "You",
+        "action": "add",
+        "count": 1,
+        "target": "property",
+        "group": "Quantification",
+        "group_id": 16,
+        "properties": [
+          {
+            "property": "Homonymous with conjunction"
+          }
+        ]
+      }
+    ]
+  }
+}
