@@ -37,21 +37,21 @@ function populateUserNav(response) {
 
   if (response["user"]) {
     let name = document.createElement("a");
-    name.href = "user?id=" + response["user_id"];
+    name.href = "user?" + ADDITIONAL_PARAMS + "id=" + response["user_id"];
     name.innerHTML = response["user"];
 
     userNav.append(name);
 
     let signOut = document.createElement("a");
     signOut.classList.add("button");
-    signOut.href = "sign_out";
+    signOut.href = "sign_out?" + ADDITIONAL_PARAMS;
     signOut.innerHTML = "Sign out";
 
     userNav.append(signOut);
   } else {
     let signIn = document.createElement("a");
     signIn.classList.add("button");
-    signIn.href = "sign_in";
+    signIn.href = "sign_in?" + ADDITIONAL_PARAMS;
     signIn.innerHTML = "Sign in";
 
     userNav.append(signIn);

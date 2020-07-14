@@ -1,5 +1,6 @@
 /* DEFINE CONSTANT ELEMENTS TO BE APPENDED */
 const API = "http://vasans.hosting.nyu.edu/experimental/api/";
+const ADDITIONAL_PARAMS = "frontend=true&";
 
 const NO_RECENT_ACTIVITY = () => {
   let el = document.createElement("h3");

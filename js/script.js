@@ -151,7 +151,7 @@ function appendContext(el, activity) {
   context.appendChild(document.createTextNode("in "));
 
   let link = document.createElement("a");
-  link.href = "group/?id=" + activity["group_id"];
+  link.href = "group/?" + ADDITIONAL_PARAMS + "id=" + activity["group_id"];
   link.innerHTML = activity["group"];
 
   context.appendChild(link);
@@ -221,7 +221,7 @@ function appendGroupJson(response) {
       let heading = document.createElement("h3");
 
       let groupName = document.createElement("a");
-      groupName.href = "group/?id=" + group["group_id"];
+      groupName.href = "group/?" + ADDITIONAL_PARAMS + "id=" + group["group_id"];
       groupName.innerHTML = group["group"];
 
       heading.appendChild(groupName);
